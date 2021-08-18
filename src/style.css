@@ -1,0 +1,9 @@
+ul#dog-breeds li {
+  cursor: pointer;
+}
+ul#dog-breeds li:hover {
+  color: #ad2a91;
+}
+ul#dog-breeds li.clicked {
+  color: #2aad97;
+}
